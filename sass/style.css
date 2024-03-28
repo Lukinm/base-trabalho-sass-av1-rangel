@@ -1,6 +1,6 @@
 body {
   font-family: "Rubik", sans-serif;
-  background-color: variables(#080B11);
+  background-color: #FEF6F0;
 }
 
 .div-header {
@@ -11,9 +11,15 @@ body {
 }
 
 .div-meio {
-  color: var(#FFB72D);
+  background-color: #FFB72D;
 }
 
 h1, h2 {
   text-align: left;
-}/*# sourceMappingURL=style.css.map */
+}
+
+.div-header button {
+  background-color: #7D7D7D;
+}
+
+/*# sourceMappingURL=style.css.map */
